@@ -4,6 +4,7 @@ import java.util.List;
 /**
  * @Author:SCBC_LiYongJie
  * @time:2022/1/13
+ *
  *       202. 快乐数
  *       这道题没啥好说的，就找找规律，出现1直接判断是快乐数
  *       如果没出现1，出现了重复的sum那么直接判断不是快乐数

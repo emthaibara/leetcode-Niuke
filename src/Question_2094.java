@@ -11,7 +11,7 @@ import java.util.*;
  */
 
 public class Question_2094 {
-    class Solution {
+    static class Solution {
         public int[] findEvenNumbers(int[] digits) {
             int[] cur = new int[10];
             for (int digit : digits) {

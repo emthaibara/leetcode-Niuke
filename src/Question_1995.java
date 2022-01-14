@@ -10,6 +10,7 @@ public class Question_1995 {
         public int countQuadruplets(int[] nums) {
             //n 个里面挑选4个元素 --- 尝试
             int i,j,k,l;
+
             int count = 0 ;
             for(i = 0 ; i <= nums.length-4 ; i ++){
 
